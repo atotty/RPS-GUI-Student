@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RPSGUI/RPSSwing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPS-GUI Student.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFxApplication/RPSGUI/RPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFxApplication/RPSGUI/RPS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaFxApplication/rps.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFxApplication/rps.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/rps.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/rps.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPSGUI/RPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RPSGUI/RPS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx-swt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.base.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.controls.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.fxml.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.graphics.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.media.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.swing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javafx.web.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libdecora_sse.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libfxplugins.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libglass.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libglib-lite.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libgstreamer-lite.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libjavafx_font.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libjavafx_iio.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libjfxmedia.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libjfxmedia_avf.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libjfxwebkit.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libprism_common.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libprism_es2.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/libprism_sw.dylib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/rps.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RPSGUI/RPSSwing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RPSGUI/RPS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +95,6 @@
     <ui_properties converted="true" />
     <breakpoint_rules converted="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaFxApplication" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -84,7 +120,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -101,6 +136,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -121,7 +157,7 @@
       <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RPSSwing">
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="HTML_USED" value="false" />
@@ -144,21 +180,7 @@
     </configuration>
     <configuration name="RPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RPSGUI.RPS" />
-      <module name="JavaFxApplication" />
-      <option name="VM_PARAMETERS" value="--module-path lib --add-modules javafx.controls,javafx.fxml" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RPSGUI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RPSSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RPSGUI.RPSSwing" />
-      <module name="JavaFxApplication" />
+      <module name="RPS-GUI Student" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -210,22 +232,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RPSSwing" />
-        <item itemvalue="Application.RPS" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -238,60 +248,73 @@
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Swing, remove out from git">
+      <created>1607360037453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607360037453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1302000" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="Add Swing, remove out from git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Swing, remove out from git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="316" y="128" key="#Project_Structure" timestamp="1576023145809">
+    <state x="184" y="123" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607360264521">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="316" y="128" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1576023145809" />
-    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576176527914">
+    <state x="184" y="123" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1607360264521" />
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1607360179991">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1576176527914" />
-    <state x="408" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575677437932">
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607360179991" />
+    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1607360179991">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="408" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.877@0.23.1440.877" timestamp="1575677437932" />
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1576605127412">
+    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1607360179991" />
+    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1607360179990">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1576605127412" />
-    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1576605127412">
+    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1607360179990" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1607360179991">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1576605127412" />
-    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1576605127411">
+    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1607360179991" />
+    <state x="335" y="168" key="NewModule_or_Project.wizard" timestamp="1607360159179">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1576605127411" />
-    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1576605127412">
+    <state x="335" y="168" key="NewModule_or_Project.wizard/0.23.1440.877@0.23.1440.877" timestamp="1607360159179" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1607360167474">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1576605127412" />
-    <state x="208" y="44" key="SettingsEditor" timestamp="1578606229123">
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1607360167474" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1607360041482">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1578606229123" />
-    <state width="500" height="445" key="SwitcherDM" timestamp="1576444168312">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1607360041482" />
+    <state x="354" y="84" key="new project wizard" timestamp="1607360127202">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1576444168312" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1576444103587">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="600" height="424" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1576444103587" />
-    <state x="97" y="64" key="new project wizard" timestamp="1575933391115">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="97" y="64" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1575933391115" />
+    <state x="354" y="84" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1607360127202" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
