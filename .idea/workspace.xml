@@ -179,12 +179,12 @@
       <Port>5050</Port>
     </configuration>
     <configuration name="RPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RPSGUI.RPS" />
+      <option name="MAIN_CLASS_NAME" value="RPS" />
       <module name="RPS-GUI Student" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RPSGUI.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
