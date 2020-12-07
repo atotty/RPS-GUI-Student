@@ -16,6 +16,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.MenuButton;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.text.Text;
@@ -55,6 +56,7 @@ public class RPS extends Application {
     @FXML ImageView computerImageView;
     @FXML Text playerScoreText;
     @FXML Text computerScoreText;
+    @FXML MenuButton computerStratDropdown;
     // images from Sudowoodo on Getty Images
     Image rockImage = new Image("/rock.jpg");
     Image paperImage = new Image("/paper.jpg");
@@ -103,14 +105,17 @@ public class RPS extends Application {
     @FXML private void handleRandomStratButton() {
         Util.log(LOG_LEVEL, 3, "Debug: computer strategy set to random");
         computerStrat = new RandomStrategy();
+        computerStratDropdown.setText("Random");
     }
     @FXML private void handleMemoryStratButton() {
         Util.log(LOG_LEVEL, 3, "Debug: computer strategy set to memory");
         computerStrat = new MemoryStrategy();
+        computerStratDropdown.setText("Memory");
     }
     @FXML private void handleMyStratButton() {
         Util.log(LOG_LEVEL, 3, "Debug: computer strategy set to my strat");
         computerStrat = new MyCustomStrategy();
+        computerStratDropdown.setText("MyCustomStrat");
     }
     @FXML private void reset() {
         game.zeroScores();

@@ -39,7 +39,7 @@
             </BorderPane>
             <StackPane prefHeight="105.0" prefWidth="657.0">
                <children>
-                  <MenuButton alignment="CENTER" mnemonicParsing="false" prefHeight="27.0" prefWidth="126.0" text="Computer Strat">
+                   <MenuButton fx:id="computerStratDropdown" alignment="CENTER" mnemonicParsing="false" prefHeight="27.0" prefWidth="126.0" text="Random">
                     <items>
                       <MenuItem onAction="#handleRandomStratButton" mnemonicParsing="false" text="Random" />
                       <MenuItem onAction="#handleMemoryStratButton" mnemonicParsing="false" text="Memory" />
