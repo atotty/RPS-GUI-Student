@@ -28,6 +28,12 @@ public class RPSGame {
     public void setComputerMove(Move move) {
         computerMove = move;
     }
+    public Move getPlayerMove() {
+        return playerMove;
+    }
+    public Move getComputerMove() {
+        return computerMove;
+    }
     public int getPlayerScore() {
         return playerScore;
     }
